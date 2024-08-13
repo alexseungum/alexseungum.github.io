@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Home"
 ---
 
 Hi, I'm Alex! 👋 I'm a Junior at the University of California, Berkeley studying [EECS](https://www.eecs.berkeley.edu) and [IEOR](https://www.ieor.berkeley.edu) 📚.
