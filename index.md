@@ -8,6 +8,6 @@ One of my passions is teaching: I have been on course staff for [EECS 16A](https
 
 My technical passions are in Machine Learning and Computer Architecture, and I am looking for opportunities to build my knowledge and skills in these fields.
 
-You can find me going 8th in [tft](https://teamfighttactics.leagueoflegends.com/en-us/) 🎲, big braining board/[card games](https://en.wikipedia.org/wiki/Literature_(card_game)) ♠️, or playing the piano 🎹 
+You can find me going 8th in [tft](https://teamfighttactics.leagueoflegends.com/en-us/) 🎲, big braining board / [card games](https://en.wikipedia.org/wiki/Literature_(card_game)) ♠️, or playing the piano 🎹.
 
 I'm always interested in talking, so feel free to reach out!
